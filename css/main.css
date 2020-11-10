@@ -1,0 +1,48 @@
+body,
+html {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Ubuntu", sans-serif;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("../assets/hero_img.jpg");
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.hook {
+  text-decoration: whitesmoke;
+}
+
+.btn-rounded {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  letter-spacing: 1px;
+  transition: all 0.5s;
+  font-size: 15px;
+  border-radius: 30px;
+}
+
+.btn-scroll-down {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  animation: bounce 2.25s infinite;
+}
+
+#section2 {
+  background-color: #fdfdfd;
+}
