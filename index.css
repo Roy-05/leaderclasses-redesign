@@ -1,0 +1,35 @@
+body,
+html {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Ubuntu", sans-serif;
+  overflow: scroll;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("./assets/hero_img.jpg");
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.col {
+  font-family: sans-serif, serif;
+  border-style: dashed;
+}
+
+.btn-scroll-down {
+  cursor: pointer;
+  width: 49px;
+  height: 49px;
+  border-radius: 50%;
+  animation: bounce 2s infinite;
+}
+
+#section2 {
+  background-color: tomato;
+}
