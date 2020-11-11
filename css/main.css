@@ -6,7 +6,7 @@ html {
   font-family: "Ubuntu", sans-serif;
   overflow-y: scroll;
   overflow-x: hidden;
-  background-color: #ecf8fc;
+  background-color: #f3f6ff;
 }
 
 .bg {
@@ -44,7 +44,7 @@ html {
 }
 
 #section2 {
-  background-color: #fdfdfd;
+  background-color: #f3f6ff;
 }
 
 .back-to-top {
@@ -55,5 +55,19 @@ html {
 }
 
 .section-container {
-  background-color: #ecf8fc;
+  background-color: #f3f6ff;
+}
+
+.simple-text {
+  font-size: 1.3rem;
+  letter-spacing: 1.2px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.simple-text-list {
+  font-size: 1.2rem;
+  letter-spacing: 1.1px;
+  text-align: left;
+  line-height: 30px;
 }
