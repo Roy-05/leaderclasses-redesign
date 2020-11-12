@@ -1,4 +1,4 @@
-# Assignment for The Elitists
+# Website Redesign for The Elitists
 
 Original: https://www.leaderclasses.com/  
 
