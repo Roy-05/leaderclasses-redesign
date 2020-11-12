@@ -1,2 +1,5 @@
 # Assignment for The Elitists
-Redesign for https://www.leaderclasses.com/ 
+
+Original: https://www.leaderclasses.com/  
+
+Redesign: https://roy-05.github.io/leaderclasses-redesign/
